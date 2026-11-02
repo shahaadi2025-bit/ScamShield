@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield: Real-Time Fraud Message Detector",
+  "description": "Real-time fraud message and screenshot detector with OCR, heuristic analysis, Family Guard accessibility mode, and Indian Cyber Crime 1930 emergency integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

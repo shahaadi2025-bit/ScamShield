@@ -1,0 +1,56 @@
+[
+  {
+    "id": "I4C-ADV-2024-001",
+    "source": "Indian Cybercrime Coordination Centre (I4C)",
+    "title": "Advisory on Digital Arrest Scams & Impersonation of Law Enforcement",
+    "category": "Digital Arrest / Extortion",
+    "content": "Fraudsters are using VoIP calls, Skype, WhatsApp, and Telegram to impersonate CBI, ED, Narcotics Control Bureau (NCB), State Police, or Judges. They falsely claim that an illegal parcel containing passports, drugs, or contraband registered in the victim's name has been seized. Victims are coerced into staying on continuous video calls under 'digital arrest' and manipulated into transferring funds to 'government verification accounts' or 'Supreme Court escrow accounts'. Fact-Check: Indian law enforcement agencies NEVER place individuals under 'digital arrest', conduct judicial interrogations via video calls, or demand money/bonds into personal bank accounts for clearing accusations. Immediately disconnect and dial 1930.",
+    "keywords": ["digital arrest", "cbi", "ed", "narcotics", "customs", "supreme court", "arrest warrant", "illegal parcel", "skype call", "video interrogation", "verification account", "police officer"],
+    "citation": "I4C/MHA Advisory No. 2024/09/DA"
+  },
+  {
+    "id": "NPCI-UPI-2024-042",
+    "source": "National Payments Corporation of India (NPCI)",
+    "title": "Guidelines on UPI Fraud Prevention & QR / MPIN Deception",
+    "category": "Banking & UPI Fraud",
+    "content": "A UPI PIN (MPIN) is required ONLY to debit/deduct money from your bank account. Entering an MPIN or scanning a QR code is NEVER required to receive money, cashback, lottery winnings, or refunds. Fraudsters create lookalike UPI handles (e.g., '@okhdfcbank-refund', '@paytm-kyc') or send collect requests masquerading as credit alerts. Furthermore, banks never send SMS containing direct web links or APK files threatening account freeze within 2 hours. If money has been debited fraudulently, the Golden Hour rule mandates calling 1930 or freezing UPI within 2 hours to stop interbank clearing.",
+    "keywords": ["upi", "mpin", "qr code", "receive money", "cashback", "refund", "kyc expired", "sbi yono", "account blocked", "pan card update", "collect request"],
+    "citation": "NPCI Security Directive Circular 118/2024"
+  },
+  {
+    "id": "CERT-IN-2024-118",
+    "source": "CERT-In & Department of Telecommunications (DoT)",
+    "title": "Advisory on Malicious Android APKs & Remote Access Trojan (RAT) Coercion",
+    "category": "Malicious APK / Device Takeover",
+    "content": "Threat actors are distributing Android Package (.apk) files via SMS, WhatsApp, and malicious short links (bit.ly, tinyurl, t.me) pretending to be bank updates (e.g., 'SBI-Yono-KYC.apk', 'ElectricityBillSupport.apk'). Once installed, these APKs request SMS read permissions and accessibility services to intercept OTPs in the background, siphoning funds without customer knowledge. Additionally, callers instruct users to install screen-sharing software (AnyDesk, TeamViewer, RustDesk, QuickSupport) under the pretext of 'technical verification'. Official agencies mandate NEVER installing APK files from outside the Google Play Store and never installing remote support tools for bank/utility issues.",
+    "keywords": ["apk", ".apk", "download app", "install app", "anydesk", "teamviewer", "rustdesk", "quicksupport", "screen share", "remote access", "sms permission", "yono.apk"],
+    "citation": "CERT-In Threat Advisory CI-2024-0312"
+  },
+  {
+    "id": "MHA-UTL-2024-089",
+    "source": "Ministry of Power & State Electricity Distribution Companies",
+    "title": "Standard Operating Procedure on Electricity Bill Disconnection Notices",
+    "category": "Utility Disconnection Panic",
+    "content": "Scammers send urgent SMS messages stating: 'Dear Consumer, your electricity power will be disconnected tonight at 9:30 PM from the power office because your previous month's bill was unpaid. Immediately call our electricity official at [personal 10-digit mobile number]'. State power utilities (BESCOM, TANGEDCO, MSEDCL, UPPCL, BSES, etc.) NEVER use 10-digit private mobile numbers for official SMS or bill payments. Official SMS sender IDs are 6-character alphabetic headers (e.g., 'VM-BESCOM', 'AD-UPPCL'). No power board officer has the authority to collect bills via personal UPI numbers.",
+    "keywords": ["electricity", "power cut", "disconnection tonight", "bill unpaid", "electricity officer", "power office", "call officer"],
+    "citation": "Ministry of Power Fraud Advisory MOP/2024/E-BILL"
+  },
+  {
+    "id": "I4C-JOB-2024-055",
+    "source": "Indian Cybercrime Coordination Centre (I4C)",
+    "title": "Advisory on Part-Time Work-From-Home & Telegram Prepaid Task Traps",
+    "category": "Employment & Task Investment Fraud",
+    "content": "Victims are recruited via unsolicited WhatsApp/SMS messages offering Rs. 3,000 to Rs. 5,000 daily for nominal tasks such as liking YouTube videos, rating Google Maps hotels, or reviewing products. Scammers initially disburse small sums (Rs. 150 to Rs. 500) to build false confidence, then transition victims into Telegram groups with fake crypto dashboards demanding 'prepaid deposits' or 'merchant recharges' of increasing sums (Rs. 10,000 to Rs. 5,00,000) that can never be withdrawn. Legitimate employers never charge advance deposits or operate commercial employment primarily via private Telegram channels.",
+    "keywords": ["work from home", "like youtube videos", "earn daily", "telegram agent", "hotel review", "prepaid task", "crypto recharge", "part-time job", "instant payout"],
+    "citation": "I4C Advisory on Investment & Task Scams 2024/TF-08"
+  },
+  {
+    "id": "DoT-SANCHAR-2024-012",
+    "source": "Department of Telecommunications (DoT) Sanchar Saathi",
+    "title": "Advisory on Fake Department of Telecom & TRAI SIM Disconnection Threats",
+    "category": "Telecom Authority Impersonation",
+    "content": "Fraudsters initiate automated IVR calls or send SMS claiming to be from the Telecom Regulatory Authority of India (TRAI) or DoT, warning that all mobile numbers associated with the customer's Aadhaar will be disconnected within 2 hours due to illegal activities or obscenity complaints. DoT and TRAI clarify that they NEVER disconnect mobile connections or initiate criminal proceedings against subscribers over phone calls or WhatsApp. Suspicious communications should be flagged on the Chakshu portal at sancharsaathi.gov.in.",
+    "keywords": ["trai", "dot", "sim disconnected", "all numbers blocked", "telecom department", "aadhaar illegal", "ivr call"],
+    "citation": "DoT Chakshu Cyber Safety Bulletin No. 44"
+  }
+]
