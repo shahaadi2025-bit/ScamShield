@@ -1,7 +1,12 @@
-# ScamShield: Real-Time Fraud Message Detector (RAG-Enabled)
-**RunUp Coders Hackathon 2026**
+# 🛡️ ScamShield: Real-Time Fraud Message & Cyber Threat Detector
 
-ScamShield is an AI-powered, **Retrieval-Augmented Generation (RAG)** cyber threat defense platform engineered to protect Indian citizens, senior citizens, and families from modern cyber scams—including **"Digital Arrest" judicial extortion, fake UPI/KYC bank freezes, utility disconnection panic, Telegram prepaid task traps, and malicious APK distribution**.
+[![License: MIT](https://img.shields.io/badge/License-MIT-amber.svg)](https://opensource.org/licenses/MIT)
+[![React](https://img.shields.io/badge/React-19-blue.svg)](https://react.dev/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-06B6D4.svg)](https://tailwindcss.com/)
+[![RAG Pipeline](https://img.shields.io/badge/RAG-ChromaDB%20%2B%20FastAPI-emerald.svg)](https://fastapi.tiangolo.com/)
+[![Helpline 1930](https://img.shields.io/badge/Emergency-1930%20National%20Portal-rose.svg)](https://cybercrime.gov.in)
+
+> **Real-time AI & RAG-powered cyber threat intelligence platform engineered to protect citizens and families from Digital Arrest scams, fake UPI/KYC freezes, electricity disconnection fraud, and malicious APK distribution—fact-checked against official I4C, NPCI, and CERT-In advisories.**
 
 ---
 

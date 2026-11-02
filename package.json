@@ -1,7 +1,8 @@
 {
-  "name": "react-example",
+  "name": "scamshield-fraud-detector",
+  "description": "Real-time AI & RAG-powered fraud message detector with OCR, Family Guard accessibility, Indian Cybercrime 1930 emergency integration, and background alerts.",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
